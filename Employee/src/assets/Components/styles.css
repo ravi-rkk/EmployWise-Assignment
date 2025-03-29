@@ -1,0 +1,47 @@
+/* styles.css */
+
+.login-container {
+ 
+  justify-content: center; /* Centers horizontally */
+  align-items: center;    /* Centers vertically */
+  height: 100%;    
+  }
+  
+  .login-box {
+    max-width: 400px;
+    width: 100%;
+  }
+  
+  .login-title {
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  
+  .login-subtext {
+    text-align: center;
+    color: #6c757d;
+  }
+  
+  .error-message {
+    text-align: center;
+    color: red;
+  }
+  
+  .forgot-password {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .forgot-password:hover {
+    text-decoration: underline;
+  }
+  
+  .signup-link {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .signup-link:hover {
+    text-decoration: underline;
+  }
+  
